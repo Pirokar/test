@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Привет мир! Это первый апп!</string>
+    <string name="change_text">Изменить текст</string>
+    <string name="enter_text_here">Введите текст здесь</string>
+    <string name="is_it_cool_app">Это крутой апп?</string>
+    <string name="option_1">вариант 1</string>
+    <string name="option_2">вариант 2</string>
+</resources>
